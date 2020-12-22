@@ -26,7 +26,7 @@ See ```launch.json``` in the ```.vscode``` folder. Enter your client ID and secr
 
 Place your ```state.txt``` file into the ```scripts``` folder, then cd into the ```scripts``` folder and run the following command in terminal: 
 
-```cat state.txt | python state_txt_to_csv-VCP.py```
+```cat state.txt | python state-txt-to-csv.py```
 
 This will output ```state_change.csv```
 
